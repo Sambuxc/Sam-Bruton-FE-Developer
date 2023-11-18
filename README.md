@@ -1,5 +1,3 @@
-# sam-bruton-FE-developer
-
 <h1>Sam Bruton ~ Frontend Developer </h1>
 
 <p>https://github.com/Sambuxc</p>
